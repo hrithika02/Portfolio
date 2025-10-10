@@ -13,7 +13,7 @@ export default function SkillsProjects() {
       description: "Fully responsive e-commerce site with product filters and interactive UI.",
       tech: ["React", "TailwindCSS", "JavaScript"],
       image:ecommerce,
-      link: "https://ecommerce-f-6r8l.onrender.com"
+      link: "https://ecommerce-f-4l5s.onrender.com/"
     },
     {
       title: "Movie App (API)",
